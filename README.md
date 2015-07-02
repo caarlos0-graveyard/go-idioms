@@ -1,0 +1,2 @@
+# go-idioms
+DRY
