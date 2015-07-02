@@ -7,7 +7,7 @@ Collection of idiomatic Go functions to deal with common boilerplate.
 Idiomatic functions to deal with Environment variables.
 
 ```go
-import "github.com/caarlos/go-idioms/env"
+import "github.com/caarlos0/go-idioms/env"
 
 env.Set("AWS_KEY", "***")
 env.GetOr("AWS_REGION", "sa-east-1")
